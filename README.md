@@ -1,3 +1,4 @@
 # learning-about-version-control
 Author: Siddharth Grover
-“Solving merge conflicts takes conscious effort, but I can do it!”
+Sometimes I like version control because it makes my life easy.
+Most times I don't because its a pain. 
